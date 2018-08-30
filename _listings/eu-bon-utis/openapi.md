@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: EU BON UTIS
 x-complete: 1
@@ -56,4 +55,3 @@ paths:
           description: OK
       tags:
       - Search
----
